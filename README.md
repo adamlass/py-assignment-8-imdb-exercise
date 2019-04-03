@@ -15,6 +15,7 @@ Create a user for kaggle if not already done.
 metascores = [21, 42, 98]
 ```
 <br>
+
 ### Review Questions
 1. Was the data downloaded programatically with python?
 2. Was the data fitted into the model, presented visually and reflected on?
