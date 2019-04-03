@@ -1,5 +1,7 @@
 # [PREDICTING MOVIE REVENUE (IMDB)](https://www.kaggle.com/PromptCloudHQ/imdb-data)
 
+*See template.ipynb for a fresh notebook to code in ;-)*
+
 ### Given a data set of the 1,000 most popular movies on IMDB in the last 10 years, can you predict the revenue of a given movie?
 
 Create a user for kaggle if not already done.
