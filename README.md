@@ -9,15 +9,21 @@ Create a user for kaggle if not already done.
 
 ### Questions/Exercises:
 
-1. Download the data programatically with python.
+**1.** Download the data programatically with python. 
 
-	You will now have to make a train-test-split of the data so that you have a way of verifying the model later. (We suggest 2/3 for training and 1/3 for testing)
+(**Hint:** To generate your own kaggle.json file go to *your profile* -> *account* -> *Create new API Token*, and then place the file it in ~/.kaggle/)
+
+<hr/>
+
+You will now have to make a train-test-split of the data so that you have a way of verifying the model later. (We suggest 2/3 for training and 1/3 for testing)
 	
-	Here is a link to the [train-test-split documentation for sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
+Here is a link to the [train-test-split documentation for sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
 
-2. Fit the training-data into a model, present it visually and reflect on wether it is a good fit or not.
+**2.** Fit the training-data into a model, present it visually and reflect on wether it is a good fit or not.
 
-3. Now take the test-data, test the model and evaluate how accurate the model is.
+<hr/>
+
+**3.** Now take the test-data, test the model and evaluate how accurate the model is.
 
 
 <br>
